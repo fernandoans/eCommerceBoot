@@ -13,4 +13,8 @@ Vídeos no youtube - How To Create ECOMMERCE Website
 Este template é ideal para trabalhar com projetos que envolvam tecnologias REST como o
 Angular.js, Meteor ou outros.
 
+Para baixar este projeto utilize o seguinte comando:
+
+git clone https://github.com/fernandoans/eCommerceBoot.git
+
 Fernando Anselmo
